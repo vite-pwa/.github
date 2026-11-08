@@ -9,11 +9,11 @@
 Vite PWA
 </h1>
 <p align="center">
-PWA integrations for Vite and the ecosystem
+PWA Ecosystem
 <p>
 <div align="center">
-  <a href="https://vite-pwa-org.netlify.app/">Documentation</a> —
-  <a href="https://vite-pwa-org.netlify.app/guide/">Getting Started</a>
+  <a href="https://unplugin-pwa.netlify.app/">Documentation</a> —
+  <a href="https://unplugin-pwa.netlify.app/guide/">Getting Started</a>
 </div>
 <h3 align="center">
 <a href="https://discord.com/invite/uccDuWkScq"><i>Get involved!</i></a>
